@@ -16,7 +16,6 @@
   "contributors": [],
   "license": "MIT",
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.26",
     "@angular-devkit/schematics": "^8.3.26",
     "@angular/animations": "^9.1.9",
     "@angular/cli": "^8.3.26",
